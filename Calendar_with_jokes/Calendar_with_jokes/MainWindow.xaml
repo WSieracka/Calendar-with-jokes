@@ -1,0 +1,75 @@
+﻿<Window x:Class="Calendar_with_jokes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calendar_with_jokes"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="800" ResizeMode="NoResize" WindowState="Normal" Topmost="False">
+    <Grid>
+        <Rectangle x:Name="top_rec1" HorizontalAlignment="Center" Height="110" Stroke="#FF101011" VerticalAlignment="Top" Width="800"/>
+        <TextBlock HorizontalAlignment="Left" Text=" Styczeń" FontFamily="Tahoma" FontSize="48" Margin="528,10,0,-11" />
+        <Button x:Name="b_first1" Content="&gt;" HorizontalAlignment="Left" Margin="721,73,0,0" VerticalAlignment="Top" Width="35" Height="25" RenderTransformOrigin="0.314,2.666" FontWeight="Bold" FontFamily="Arial Black"/>
+        <Button x:Name="b_second1" Content="&lt;" HorizontalAlignment="Left" Margin="10,73,0,0" VerticalAlignment="Top" Height="25" Width="35" FontWeight="Bold" FontFamily="Arial Black" />
+
+        <TextBox HorizontalAlignment="Left" Height="47" Margin="0,110,0,0" Text="Poniedziałek" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" HorizontalContentAlignment="Center" Grid.IsSharedSizeScope="True" VerticalContentAlignment="Center" BorderBrush="#FF1A1819" Background="#FF57AEBF"/>
+        <TextBox HorizontalAlignment="Left" Height="47" Margin="113,110,0,0" Text="Wtorek" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" HorizontalContentAlignment="Center" Grid.IsSharedSizeScope="True" VerticalContentAlignment="Center" BorderBrush="#FF1A1819" Background="#FF57AEBF"/>
+        <TextBox HorizontalAlignment="Left" Height="47" Margin="226,110,0,0" Text="Środa" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" HorizontalContentAlignment="Center" Grid.IsSharedSizeScope="True" VerticalContentAlignment="Center" BorderBrush="#FF1A1819" Background="#FF57AEBF"/>
+        <TextBox HorizontalAlignment="Left" Height="47" Margin="339,110,0,0" Text="Czwartek" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" HorizontalContentAlignment="Center" Grid.IsSharedSizeScope="True" VerticalContentAlignment="Center" BorderBrush="#FF1A1819" Background="#FF57AEBF"/>
+        <TextBox HorizontalAlignment="Left" Height="47" Margin="452,110,0,0" Text="Piątek" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" HorizontalContentAlignment="Center" Grid.IsSharedSizeScope="True" VerticalContentAlignment="Center" BorderBrush="#FF1A1819" Background="#FF57AEBF"/>
+        <TextBox HorizontalAlignment="Left" Height="47" Margin="565,110,0,0" Text="Sobota" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" HorizontalContentAlignment="Center" Grid.IsSharedSizeScope="True" VerticalContentAlignment="Center" BorderBrush="#FF1A1819" Background="#FFBC50C0"/>
+        <TextBox HorizontalAlignment="Left" Height="47" Margin="678,110,0,0" Text="Niedziela" TextWrapping="Wrap" VerticalAlignment="Top" Width="122" HorizontalContentAlignment="Center" Grid.IsSharedSizeScope="True" VerticalContentAlignment="Center" BorderBrush="#FF1A1819" Background="#FFBC50C0"/>
+        <TextBox HorizontalAlignment="Left" Margin="0,157,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" RenderTransformOrigin="0.567,-0.024" Height="105"/>
+        <TextBox HorizontalAlignment="Left" Margin="0,262,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" RenderTransformOrigin="0.567,-0.024" Height="105"/>
+        <TextBox HorizontalAlignment="Left" Margin="0,367,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" RenderTransformOrigin="0.567,-0.024" Height="105"/>
+        <TextBox HorizontalAlignment="Left" Margin="0,472,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" RenderTransformOrigin="0.567,-0.024" Height="105"/>
+        <TextBox HorizontalAlignment="Left" Margin="0,577,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" RenderTransformOrigin="0.567,-0.024" Height="105"/>
+        <TextBox HorizontalAlignment="Left" Margin="113,157,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" RenderTransformOrigin="0.567,-0.024" Height="105"/>
+        <Grid Background="black">
+            <Rectangle x:Name="top_rec" HorizontalAlignment="Center" Height="110" Stroke="#FF060606" VerticalAlignment="Top" Width="800" Fill="Black"/>
+            <TextBlock x:Name="msc" HorizontalAlignment="Left" Text=" Styczeń" FontFamily="Tahoma" FontSize="48" Margin="528,10,0,527" Foreground="#FF1F08FD" >
+                <TextBlock.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="#FF0D0E0E" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBlock.Background>
+            </TextBlock>
+            <Button x:Name="b_first" Content="&gt;" HorizontalAlignment="Left" Margin="721,73,0,0" VerticalAlignment="Top" Width="35" Height="25" RenderTransformOrigin="0.314,2.666" FontWeight="Bold" FontFamily="Arial Black" Click="b_first_Click"/>
+            <Button x:Name="b_second" Content="&lt;" HorizontalAlignment="Left" Margin="10,73,0,0" VerticalAlignment="Top" Height="25" Width="35" FontWeight="Bold" FontFamily="Arial Black" Click="b_second_Click" />
+            <TextBox HorizontalAlignment="Left" Height="47" Margin="0,110,0,0" Text="Poniedziałek" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" HorizontalContentAlignment="Center" Grid.IsSharedSizeScope="True" VerticalContentAlignment="Center" Background="#FF1F08FD" Foreground="#FFF4F3F3" BorderBrush="#FF1F08FD"/>
+            <TextBox HorizontalAlignment="Left" Height="47" Margin="113,110,0,0" Text="Wtorek" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" HorizontalContentAlignment="Center" Grid.IsSharedSizeScope="True" VerticalContentAlignment="Center" BorderBrush="#FF1F08FD" Background="#FF1F08FD" Foreground="#FFF4F3F3"/>
+            <TextBox HorizontalAlignment="Left" Height="47" Margin="226,110,0,0" Text="Środa" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" HorizontalContentAlignment="Center" Grid.IsSharedSizeScope="True" VerticalContentAlignment="Center" BorderBrush="#FF1F08FD" Background="#FF1F08FD" Foreground="#FFF4F3F3"/>
+            <TextBox HorizontalAlignment="Left" Height="47" Margin="339,110,0,0" Text="Czwartek" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" HorizontalContentAlignment="Center" Grid.IsSharedSizeScope="True" VerticalContentAlignment="Center" BorderBrush="#FF1F08FD" Background="#FF1F08FD" Foreground="#FFF4F3F3"/>
+            <TextBox HorizontalAlignment="Left" Height="47" Margin="452,110,0,0" Text="Piątek" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" HorizontalContentAlignment="Center" Grid.IsSharedSizeScope="True" VerticalContentAlignment="Center" BorderBrush="#FF1F08FD" Background="#FF1F08FD" Foreground="#FFF4F3F3"/>
+            <TextBox HorizontalAlignment="Left" Height="47" Margin="565,110,0,0" Text="Sobota" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" HorizontalContentAlignment="Center" Grid.IsSharedSizeScope="True" VerticalContentAlignment="Center" BorderBrush="#FFD9113C" Background="#FFD9113C" Foreground="#FFF4F3F3"/>
+            <TextBox HorizontalAlignment="Left" Height="47" Margin="678,110,0,0" Text="Niedziela" TextWrapping="Wrap" VerticalAlignment="Top" Width="122" HorizontalContentAlignment="Center" Grid.IsSharedSizeScope="True" VerticalContentAlignment="Center" BorderBrush="#FFD9113C" Background="#FFD9113C" Foreground="#FFF4F3F3"/>
+            <Label x:Name="c" Content="2021" HorizontalAlignment="Left" Margin="586,70,0,0" VerticalAlignment="Top" Width="60" Height="30" HorizontalContentAlignment="Center" IsEnabled="False" Padding="5,5,5,5" RenderTransformOrigin="0.5,0.5" Foreground="#FFD9113C">
+                <Label.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="3" ScaleY="2"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Label.RenderTransform>
+            </Label>
+            <Image HorizontalAlignment="Left" Height="98" Margin="211,10,0,0" VerticalAlignment="Top" Width="152" Source="https://img.onmanorama.com/content/dam/mm/en/travel/beyond-kerala/images/2020/10/1/siamese-fighting-fish.jpg"/>
+            <Image HorizontalAlignment="Left" Height="90" Margin="373,11,0,0" VerticalAlignment="Top" Width="136" Source="https://image.freepik.com/free-photo/betta-siamese-fighting-fish-thai-popular-aquarium-fish-red-white-blue-thailand-flag_48718-100.jpg"/>
+            <Image HorizontalAlignment="Left" Height="93" Margin="83,11,0,0" VerticalAlignment="Top" Width="128" Source="https://image.freepik.com/free-photo/betta-siamese-fighting-fish-popular-aquarium-fish-red-white-blue-thailand-flag-half-moon_48718-97.jpg"/>
+            <Grid/>
+
+            <Grid/>
+            <Grid x:Name="MonthViewGrid" Margin="0,162,0,0" />
+
+
+
+        </Grid>
+        <Grid/>
+
+
+
+    </Grid>
+
+</Window>
+

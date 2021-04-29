@@ -1,0 +1,80 @@
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\Calendar_with_jokes.exe.config
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\Calendar_with_jokes.exe
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\Calendar_with_jokes.pdb
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\App.g.cs
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes_MarkupCompile.cache
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes_MarkupCompile.lref
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\MainWindow.baml
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes.g.resources
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes.Properties.Resources.resources
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes.exe
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes.pdb
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\EntityFramework.dll
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\EntityFramework.xml
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes_Content.g.cs
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes.csproj.CopyComplete
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\ViewDay.g.cs
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\ViewDay.baml
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\ApiLibrary.dll
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\ApiLibrary.pdb
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\ApiLibrary.dll.config
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\DayControl.g.cs
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\WeekControl.g.cs
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\DayControl.baml
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\WeekControl.baml
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\EventControl.g.cs
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\EventControl.baml
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\Calendar_with_jokes.exe.config
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\Calendar_with_jokes.exe
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\Calendar_with_jokes.pdb
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\ApiLibrary.dll
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\EntityFramework.dll
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\ApiLibrary.pdb
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\ApiLibrary.dll.config
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\EntityFramework.xml
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes.csprojAssemblyReference.cache
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\DayControl.g.cs
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\EventControl.g.cs
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\MainWindow.g.cs
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\ViewDay.g.cs
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\WeekControl.g.cs
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\App.g.cs
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes_Content.g.cs
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes_MarkupCompile.cache
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes_MarkupCompile.lref
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\DayControl.baml
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\EventControl.baml
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\MainWindow.baml
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\ViewDay.baml
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\WeekControl.baml
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes.g.resources
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes.Properties.Resources.resources
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes.csproj.GenerateResource.cache
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes.csproj.CoreCompileInputs.cache
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes.csproj.CopyComplete
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes.exe
+C:\Users\Weronika\Desktop\Nowy folder\Calendar_with_jokes\Calendar_with_jokes\obj\Debug\Calendar_with_jokes.pdb
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\nunit.framework.dll
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\nunit.framework.xml
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\nunit.engine.dll
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\nunit.engine.api.dll
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\nunit.engine.core.dll
+C:\Users\sebas\source\repos\Calendar_with_jokes\Calendar_with_jokes\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll

@@ -1,0 +1,105 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\UnitTests\\UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\ApiLibrary\\ApiLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\ApiLibrary\\ApiLibrary.csproj",
+        "projectName": "ApiLibrary",
+        "projectPath": "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\ApiLibrary\\ApiLibrary.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\Calendar_with_jokes\\Calendar_with_jokes.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\Calendar_with_jokes\\Calendar_with_jokes.csproj",
+        "projectName": "Calendar_with_jokes",
+        "projectPath": "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\Calendar_with_jokes\\Calendar_with_jokes.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\ApiLibrary\\ApiLibrary.csproj": {
+                "projectPath": "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\ApiLibrary\\ApiLibrary.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\UnitTests\\UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\UnitTests\\UnitTests.csproj",
+        "projectName": "UnitTests",
+        "projectPath": "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\UnitTests\\UnitTests.csproj",
+        "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\ApiLibrary\\ApiLibrary.csproj": {
+                "projectPath": "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\ApiLibrary\\ApiLibrary.csproj"
+              },
+              "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\Calendar_with_jokes\\Calendar_with_jokes.csproj": {
+                "projectPath": "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\Calendar_with_jokes\\Calendar_with_jokes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.CodeCoverage": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "NUnitTestAdapter.WithFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
