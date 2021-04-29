@@ -76,6 +76,10 @@
         "net472": {
           "targetAlias": "net472",
           "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
             "Microsoft.CodeCoverage": {
               "target": "Package",
               "version": "[16.9.4, )"

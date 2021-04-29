@@ -1,11 +1,16 @@
 using ApiLibrary;
 using Calendar_with_jokes;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NUnit.Framework;
 using System;
+using System.Threading;
+using Assert = NUnit.Framework.Assert;
 
 namespace UnitTests
 {
+
     [TestFixture]
+    [Apartment(ApartmentState.STA)]
     public class CalendarTests
     {
         [TestCase(15, false)]
@@ -13,7 +18,7 @@ namespace UnitTests
         [TestCase(5, true)]
         public void Test_Proper_Month(int month, bool ProperResult)
         {
-            MainWindow window = new MainWindow();
+            ViewDay window = new ViewDay();
             bool result = window.check_the_month(month);
             Assert.AreEqual(ProperResult, result);
         }
@@ -24,7 +29,7 @@ namespace UnitTests
         [TestCase(4, 31, false)]
         public void Test_Proper_Day(int month, int day, bool ProperResult)
         {
-            MainWindow window = new MainWindow();
+            ViewDay window = new ViewDay();
             bool result = window.check_the_monthdays(month, day);
             Assert.AreEqual(ProperResult, result);
         }
@@ -34,7 +39,7 @@ namespace UnitTests
         [TestCase(2021, true)]
         public void Test_Proper_Year(int year, bool ProperResult)
         {
-            MainWindow window = new MainWindow();
+            ViewDay window = new ViewDay();
             bool result = window.check_the_year(year);
             Assert.AreEqual(ProperResult, result);
         }

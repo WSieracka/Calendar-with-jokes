@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YObeVFpmcNJb1WfLi0dD2L9To/R+XxylAKGrlZLQ5A4ZiP2RR9JKdSFVMxmD12PcyWzzXOG8orEwIcz4nzFDkg==",
+  "dgSpecHash": "JSd1aOnGXypKBHbvJzjeBpU9P6gOTymvHUeNTPzbSpAVSrv8y76ZBg/U+21nxXvB7qsI3sUv9HLY4WNqo24TFA==",
   "success": true,
   "projectFilePath": "C:\\Users\\sebas\\source\\repos\\Calendar_with_jokes\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\mstest.testframework\\2.2.3\\mstest.testframework.2.2.3.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\nunittestadapter.withframework\\2.0.0\\nunittestadapter.withframework.2.0.0.nupkg.sha512"

@@ -29,7 +29,7 @@ namespace Calendar_with_jokes
         /// <summary>
         /// Widok przechowujacacy wydarzenia do wyswietlenia
         /// </summary>
-        public ICollectionView EventsList { get; private set; }
+        public ICollectionView EventsList { get; set; }
         /// <summary>
         /// Konstruktor tworzacy okno dnia z wydarzeniami
         /// </summary>
@@ -95,7 +95,56 @@ namespace Calendar_with_jokes
                 return true;
             return false;
         }
-
+        /// <summary>
+        /// Funkcja sprawdzajaca czy moze istniec taki miesiac
+        /// </summary>
+        /// <param name="month">Podany miesiac</param>
+        /// <returns>Zwraca prawde jesli ta liczba moze byc miesiacem</returns>
+        public bool check_the_month(int month)
+        {
+            if (month > 0 && month < 13)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+        /// <summary>
+        /// Funkcja sprawdzajaca czy moze istniec taki rok
+        /// </summary>
+        /// <param name="year">Podany rok</param>
+        /// <returns>Zwraca prawde jesli ta liczba moze byc rokiem</returns>
+        public bool check_the_year(int year)
+        {
+            if (year < 0)
+            {
+                return false;
+            }
+            else
+            {
+                return true;
+            }
+        }
+        /// <summary>
+        /// Funkcja sprawdzajaca czy moze istniec taki dzien dla danego miesiaca
+        /// </summary>
+        /// <param name="month">Podany miesiac</param>
+        /// <param name="day">Podany dzien</param>
+        /// <returns>Zwraca prawde jesli ta liczba moze byc dniem danego miesiaca</returns>
+        public bool check_the_monthdays(int month, int day)
+        {
+            if (day > 31)
+                return false;
+            if (month == 2 && day <= 29)
+                return true;
+            if (day <= 30)
+                return true;
+            if (month == 1 || month == 3 || month == 5 || month == 7 || month == 8 || month == 10 || month == 12)
+                return true;
+            return false;
+        }
         /// <summary>
         /// Funkcja wyswietlajaca wydarzenia dla danego dnia
         /// </summary>
@@ -113,6 +162,7 @@ namespace Calendar_with_jokes
                          select v;
             EventsList = CollectionViewSource.GetDefaultView(events.ToList());
             DataContext = this;
+            this.gridEvents.ItemsSource = EventsList;
             NotifyPropertyChanged();
         }
         /// <summary>

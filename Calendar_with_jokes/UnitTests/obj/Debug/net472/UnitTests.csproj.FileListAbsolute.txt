@@ -9,8 +9,6 @@ C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\bin\Debug\net472\nunit
 C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\bin\Debug\net472\nunit.engine.core.dll
 C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\bin\Debug\net472\UnitTests.dll
 C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\bin\Debug\net472\UnitTests.pdb
-C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\bin\Debug\net472\Castle.Core.dll
-C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\bin\Debug\net472\FakeItEasy.dll
 C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\bin\Debug\net472\nunit.framework.dll
 C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\bin\Debug\net472\ApiLibrary.dll
@@ -26,3 +24,9 @@ C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\bin\Debug\net472\Entit
 C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\obj\Debug\net472\UnitTests.csproj.CopyComplete
 C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\obj\Debug\net472\UnitTests.dll
 C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\obj\Debug\net472\UnitTests.pdb
+C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\bin\Debug\net472\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\bin\Debug\net472\nunit.core.dll
+C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\bin\Debug\net472\nunit.core.interfaces.dll
+C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\bin\Debug\net472\nunit.util.dll
+C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\bin\Debug\net472\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sebas\source\repos\Calendar_with_jokes\UnitTests\bin\Debug\net472\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
